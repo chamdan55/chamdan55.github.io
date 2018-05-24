@@ -5,7 +5,7 @@ Mahasiswa Ilmu Komputer
 *chamdanlab555@gmail.com*
 
 ## Pendidikan
-### Institut Pertanian Bogor -- *SKomp*
+### Institut Pertanian Bogor --- *SKomp*
 Sep 2017 - Sekarang
 ### SMA Negeri 1 Pangandaran
 Sep 2014 - Aug 2017
