@@ -1,7 +1,7 @@
 # Chamdan L Abdulbaaqiy
-Mahasiswa Ilmu Komputer
-*Jl Raya Cikembulan 293 Pangandaran 46365*\
-*0857 8072 7113*\
+Mahasiswa Ilmu Komputer<br>
+*Jl Raya Cikembulan 293 Pangandaran 46365* <br>
+*0857 8072 7113* <br>
 *chamdanlab555@gmail.com*
 
 ## Pendidikan
